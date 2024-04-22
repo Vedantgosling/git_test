@@ -32,7 +32,7 @@
 
 ### Text Formatting
 
-Hello World **bold** text, *italic* Hello World, and ***bold-italic*** Bye.
+**Hello World** ,*Hello World*, ***Bye***
 
 ### Equation
 
