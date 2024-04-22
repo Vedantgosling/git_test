@@ -25,12 +25,14 @@
 
 - Item A
 - Item B
-  - Subitem B1
-  - Subitem B2
+- Item C
+  - Subitem C1
+  - Subitem C2
+  - Subitem C3
 
 ### Text Formatting
 
-This is **bold** text, *italic* text, and ***bold-italic*** text.
+Hello World **bold** text, *italic* Hello World, and ***bold-italic*** Bye.
 
 ### Equation
 
